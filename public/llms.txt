@@ -84,7 +84,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### ארגנטינה בית
+https://example.com/product/argntynh-byt-miadet
+- Price: 99.90 ILS (sale, was 139.90 ILS)
+- Availability: In stock
+- Brand: אדידס
+- Image: https://example.com/assets/product-1783722712101-u5pz7a.webp
 
 ---
 

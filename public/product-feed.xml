@@ -4,6 +4,19 @@
     <title>Jerseyhome</title>
     <link>https://example.com</link>
     <description>Product feed for Jerseyhome</description>
-    <lastBuildDate>Fri, 10 Jul 2026 22:27:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 22:37:04 GMT</lastBuildDate>
+    <item>
+      <g:id>33006e9a-78a8-41a2-97e5-7339432e52b6</g:id>
+      <g:title>ארגנטינה בית</g:title>
+      <g:description>ארגנטינה בית</g:description>
+      <g:link>https://example.com/product/argntynh-byt-miadet</g:link>
+      <g:image_link>https://example.com/assets/product-1783722712101-u5pz7a.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783722719661-e9su76.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אדידס</g:brand>
+    </item>
   </channel>
 </rss>

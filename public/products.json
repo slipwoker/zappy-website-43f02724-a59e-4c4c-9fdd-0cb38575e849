@@ -1,8 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T22:27:27.544Z",
+  "generated_at": "2026-07-10T22:37:04.974Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "33006e9a-78a8-41a2-97e5-7339432e52b6",
+      "slug": "argntynh-byt-miadet",
+      "name": "ארגנטינה בית",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "אדידס",
+      "price": 99.9,
+      "base_price": 139.9,
+      "sale_price": 99.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783722712101-u5pz7a.webp",
+        "https://example.com/assets/product-1783722719661-e9su76.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/argntynh-byt-miadet",
+      "categories": [],
+      "updated_at": "2026-07-10T22:34:18.797Z"
+    }
+  ]
 }
