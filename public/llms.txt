@@ -7,77 +7,77 @@
 ## Pages
 
 ### בית
-https://jerseyhome-43f02724.zappy5.app
+https://example.com
 גלה את הממלכה של חולצות כדורגל מקוריות וחולצות קבוצות אירופיות. קנה ג&#39;רזי כדורגל מקורי אונליין בישראל עם משלוח מהיר. הצטרף למועדון האוהדים עוד היום!
 
 ### אודות
-https://jerseyhome-43f02724.zappy5.app/about
+https://example.com/about
 צלול לתוך הסיפור של Jerseyhome, מותג שנולד מתוך תשוקה עמוקה לתרבות הכדורגל וחולצות כדורגל. למה אנחנו המקור מספר אחת שלך לג&#39;רזי איכותי? קרא עוד וגלה את הרוח שלנו.
 
 ### חולצות בעיצוב אישי
-https://jerseyhome-43f02724.zappy5.app/custom-shirts
+https://example.com/custom-shirts
 הפוך למעצב הראשי! צור חולצות בעיצוב אישי עם שם, מספר וסגנון ייחודי. מושלם לקבוצות חובבים או למתנה המושלמת לחובב חולצות כדורגל. התחל לעצב עכשיו!
 
 ### גלריית מעריצים
-https://jerseyhome-43f02724.zappy5.app/fan-gallery
+https://example.com/fan-gallery
 השראה מחכה! צפה בגלריית מעריצים שלנו המלאה בתמונות של אוהדים אמיתיים לובשים חולצות כדורגל מקוריות. העלה את התמונה שלך והפוך לחלק מקהילת האלופים.
 
 ### שאלות נפוצות
-https://jerseyhome-43f02724.zappy5.app/faq
+https://example.com/faq
 יש לך שאלה? קיבלנו תשובה! ממדריכי מידות ועד מדיניות משלוחים לחולצות כדורגל, מרכז השאלות הנפוצות שלנו מבטיח שתקבל החלטה מנצחת. בדוק את המידע החיוני עכשיו.
 
 ### צור קשר
-https://jerseyhome-43f02724.zappy5.app/contact
+https://example.com/contact
 מוכן להרכיב את החלום שלך? צור קשר עם צוות המומחים של Jerseyhome לכל שאלה על חולצות כדורגל, הזמנות מיוחדות או שיתופי פעולה. בוא נדבר כדורגל, אנחנו מחכים לפנייתך.
 
 ### Products
-https://jerseyhome-43f02724.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Jerseyhome
 
 ### Cart
-https://jerseyhome-43f02724.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://jerseyhome-43f02724.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://jerseyhome-43f02724.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://jerseyhome-43f02724.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://jerseyhome-43f02724.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://jerseyhome-43f02724.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Jerseyhome
 
 ### Category
-https://jerseyhome-43f02724.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Jerseyhome
 
 ### תודה - Jerseyhome
-https://jerseyhome-43f02724.zappy5.app/thank-you
+https://example.com/thank-you
 Jerseyhome - תודה - Jerseyhome
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://jerseyhome-43f02724.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://jerseyhome-43f02724.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://jerseyhome-43f02724.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://jerseyhome-43f02724.zappy5.app/sitemap.xml
-- Robots: https://jerseyhome-43f02724.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://jerseyhome-43f02724.zappy5.app/llms-full.txt
-- Products (JSON): https://jerseyhome-43f02724.zappy5.app/products.json
-- Products (Google Merchant RSS): https://jerseyhome-43f02724.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
