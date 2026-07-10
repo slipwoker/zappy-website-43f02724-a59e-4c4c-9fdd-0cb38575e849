@@ -4,12 +4,192 @@
     <title>Jerseyhome</title>
     <link>https://example.com</link>
     <description>Product feed for Jerseyhome</description>
-    <lastBuildDate>Fri, 10 Jul 2026 22:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 23:02:59 GMT</lastBuildDate>
+    <item>
+      <g:id>3b768411-8d69-47fa-a987-3d43374dd154</g:id>
+      <g:title>מקסיקו חוץ </g:title>
+      <g:description>מקסיקו חוץ</g:description>
+      <g:link>https://example.com/product/mksykv-chvts-1srwh8</g:link>
+      <g:image_link>https://example.com/assets/product-1783724268633-m48io.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אדידס</g:brand>
+    </item>
+    <item>
+      <g:id>77f16775-0529-4507-ab7c-839e19dab72e</g:id>
+      <g:title>מקסיקו בית</g:title>
+      <g:description>מקסיקו בית</g:description>
+      <g:link>https://example.com/product/mksykv-byt-12spci</g:link>
+      <g:image_link>https://example.com/assets/product-1783724218513-n9zm4a.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אדידס</g:brand>
+    </item>
+    <item>
+      <g:id>2e2d5682-60fb-4ba8-a9c8-96392d867faa</g:id>
+      <g:title>יפן בית</g:title>
+      <g:description>יפן בית</g:description>
+      <g:link>https://example.com/product/ypn-byt-slwro5</g:link>
+      <g:image_link>https://example.com/assets/product-1783724144514-rueqaj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אדידס</g:brand>
+    </item>
+    <item>
+      <g:id>1cb84dc1-81b5-4cf6-970c-820ec92650b7</g:id>
+      <g:title>גרמניה בית</g:title>
+      <g:description>גרמניה בית</g:description>
+      <g:link>https://example.com/product/grmnyh-byt-ltnc7f</g:link>
+      <g:image_link>https://example.com/assets/product-1783724083867-ihlo9.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אדידס</g:brand>
+    </item>
+    <item>
+      <g:id>fc7c1fdd-0e78-4a18-bec8-bd57e565edb3</g:id>
+      <g:title>פורטוגל בית </g:title>
+      <g:description>פורטוגל בית</g:description>
+      <g:link>https://example.com/product/pvrtvgl-byt-l8nsj2</g:link>
+      <g:image_link>https://example.com/assets/product-1783724024311-ya4w1.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פומה</g:brand>
+    </item>
+    <item>
+      <g:id>6efe0ca0-4851-4c42-ab7b-a9dadc0a3430</g:id>
+      <g:title>ברזיל חוץ</g:title>
+      <g:description>ברזיל חוץ</g:description>
+      <g:link>https://example.com/product/brzyl-chvts-goawub</g:link>
+      <g:image_link>https://example.com/assets/product-1783723973177-76ij8.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גורדן</g:brand>
+    </item>
+    <item>
+      <g:id>7801a95b-0006-4d05-89d3-b0fb3313f8c7</g:id>
+      <g:title>ספרד חוץ </g:title>
+      <g:description>ספרד חוץ</g:description>
+      <g:link>https://example.com/product/sprd-chvts-b8njv0</g:link>
+      <g:image_link>https://example.com/assets/product-1783723916409-2plph4.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אדידס</g:brand>
+    </item>
+    <item>
+      <g:id>4aea98b9-fa35-411f-aad1-318e35a1d468</g:id>
+      <g:title>פורטוגל חוץ</g:title>
+      <g:description>פורטוגל חוץ</g:description>
+      <g:link>https://example.com/product/pvrtvgl-chvts-3xovs3</g:link>
+      <g:image_link>https://example.com/assets/product-1783723843018-jinjsh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פומה</g:brand>
+    </item>
+    <item>
+      <g:id>cb501088-b68a-4fbd-9db8-145d37974c35</g:id>
+      <g:title>אנגליה בית</g:title>
+      <g:description>אנגליה בית</g:description>
+      <g:link>https://example.com/product/anglyh-byt-ycqypj</g:link>
+      <g:image_link>https://example.com/assets/product-1783723810111-3x6btr.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>נייק</g:brand>
+    </item>
+    <item>
+      <g:id>04fbf3fc-474f-41c3-9f02-6601de6d86d1</g:id>
+      <g:title>הולנד בית</g:title>
+      <g:description>הולנד בית</g:description>
+      <g:link>https://example.com/product/hvlnd-byt-dwv09d</g:link>
+      <g:image_link>https://example.com/assets/product-1783723771026-u0zkwc.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>נייק</g:brand>
+    </item>
+    <item>
+      <g:id>d3ec8f67-1cad-492c-93a9-4d12df40526e</g:id>
+      <g:title>צרפת בית</g:title>
+      <g:description>צרפת בית</g:description>
+      <g:link>https://example.com/product/tsrpt-byt-80zsf2</g:link>
+      <g:image_link>https://example.com/assets/product-1783723722280-ydb7fmh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>נייק</g:brand>
+    </item>
+    <item>
+      <g:id>15104817-b5a0-4923-bfbd-a9da4aeb86de</g:id>
+      <g:title>ספרד בית</g:title>
+      <g:description>ספרד בית</g:description>
+      <g:link>https://example.com/product/sprd-byt-y4wdnl</g:link>
+      <g:image_link>https://example.com/assets/product-1783723396258-eu824j.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אדידס</g:brand>
+    </item>
+    <item>
+      <g:id>1b7d1203-9b6f-4f6c-88bb-464aa15d03ce</g:id>
+      <g:title>ארגנטינה חוץ</g:title>
+      <g:description>ארגנטינה חוץ</g:description>
+      <g:link>https://example.com/product/argntynh-chvts-dapc2f</g:link>
+      <g:image_link>https://example.com/assets/product-1783723350703-gu5lx8.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אדידס</g:brand>
+    </item>
+    <item>
+      <g:id>567689b1-8186-4b75-a56f-911f802da578</g:id>
+      <g:title>צרפת חוץ</g:title>
+      <g:description>צרפת חוץ</g:description>
+      <g:link>https://example.com/product/tsrpt-chvts-0cduwo</g:link>
+      <g:image_link>https://example.com/assets/product-1783723271677-nfd9zco.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>נייק</g:brand>
+    </item>
+    <item>
+      <g:id>e7e731ff-443a-4f33-a2d2-3261cd83b610</g:id>
+      <g:title>אנגליה חוץ</g:title>
+      <g:description>אנגליה חוץ</g:description>
+      <g:link>https://example.com/product/anglyh-chvts-1ncunn</g:link>
+      <g:image_link>https://example.com/assets/product-1783723198875-g3wam9.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>139.90 ILS</g:price>
+      <g:sale_price>99.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>נייק</g:brand>
+    </item>
     <item>
       <g:id>33006e9a-78a8-41a2-97e5-7339432e52b6</g:id>
       <g:title>ארגנטינה בית</g:title>
       <g:description>ארגנטינה בית</g:description>
-      <g:link>https://example.com/product/argntynh-byt-miadet</g:link>
+      <g:link>https://example.com/product/argntynh-byt-ml4ba0</g:link>
       <g:image_link>https://example.com/assets/product-1783722712101-u5pz7a.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/product-1783722719661-e9su76.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
