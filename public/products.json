@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T23:02:59.174Z",
+  "generated_at": "2026-07-11T10:01:48.023Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 16,
@@ -95,7 +95,7 @@
     },
     {
       "id": "fc7c1fdd-0e78-4a18-bec8-bd57e565edb3",
-      "slug": "pvrtvgl-byt-l8nsj2",
+      "slug": "pvrtvgl-byt-b426zw",
       "name": "פורטוגל בית ",
       "name_translations": {},
       "description": "",
@@ -111,9 +111,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pvrtvgl-byt-l8nsj2",
+      "url": "https://example.com/product/pvrtvgl-byt-b426zw",
       "categories": [],
-      "updated_at": "2026-07-10T22:54:27.272Z"
+      "updated_at": "2026-07-11T09:55:26.447Z"
     },
     {
       "id": "6efe0ca0-4851-4c42-ab7b-a9dadc0a3430",

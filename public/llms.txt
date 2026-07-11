@@ -115,7 +115,7 @@ https://example.com/product/grmnyh-byt-ltnc7f
 - Image: https://example.com/assets/product-1783724083867-ihlo9.webp
 
 ### פורטוגל בית 
-https://example.com/product/pvrtvgl-byt-l8nsj2
+https://example.com/product/pvrtvgl-byt-b426zw
 - Price: 99.90 ILS (sale, was 139.90 ILS)
 - Availability: In stock
 - Brand: פומה
