@@ -13,12 +13,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/custom-shirts</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://example.com/fan-gallery</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
