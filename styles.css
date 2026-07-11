@@ -11578,6 +11578,16 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     font-size: 0.9rem;
   }
 }
+
+.index-hero-section .hero-cat-chip:hover {
+  background: rgba(255,255,255,0.2) !important;
+  border-color: rgba(255,255,255,0.4) !important;
+  transform: translateY(-2px);
+}
+
+.index-hero-section .hero-categories-strip {
+  margin: 24px 0 0 0;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
